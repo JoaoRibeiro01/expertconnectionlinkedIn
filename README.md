@@ -1,4 +1,4 @@
-# ConexãoTechRecruiters - Automação de Conexões no LinkedIn com Selenium
+# Conexões Profissionais - Automação de Conexões no LinkedIn com Selenium
 
 ## Descrição
 O ConexãoTechRecruiters é um projeto de automação desenvolvido para facilitar a conexão com profissionais recrutadores da área de tecnologia no LinkedIn. Utilizando o Selenium, uma ferramenta de automação de navegador, essa ferramenta permite enviar solicitações de conexão de forma automatizada, agilizando o processo de networking e expansão da sua rede profissional.
